@@ -84,3 +84,6 @@
 
 ## My GitHub Stats:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical)
+
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
