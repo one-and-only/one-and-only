@@ -55,7 +55,7 @@
         <td>bc1qgtfxl7j4vnmftx9p9fzvwttf0lxnf0hxaqtmd6</td>
     </tr>
     <tr>
-        <td><img src="static/images/cryptos/eth.webp" width="27px"> Ethereum</img></td>
+        <td><img src="static/images/cryptos/eth.webp" width="20px"> Ethereum</img></td>
         <td>ETH</td>
         <td>0xb5Ba16B8829944EB811f6156eFBa5EF015CB4d71</td>
     </tr>
@@ -70,12 +70,12 @@
         <td>489rq68uT2V7RmzFJcnaAVY4zvrwpu32ngchXUWDbvsFLv8neifPRt62PiXMrTP4c5CdpRKYFS4ZDU8YKjC7R4LbADb4s9L</td>
     </tr>
     <tr>
-        <td><img src="static/images/cryptos/rtm.webp" width="22px"> Raptoreum</img></td>
+        <td><img src="static/images/cryptos/rtm.webp" width="20px"> Raptoreum</img></td>
         <td>RTM</td>
         <td>RRWtsBYMcRXMu7EzP1rDN8UajHQFew2sJ8</td>
     </tr>
     <tr>
-        <td><img src="static/images/cryptos/xwp.webp" width="22px"> Swap</img></td>
+        <td><img src="static/images/cryptos/xwp.webp" width="20px"> Swap</img></td>
         <td>XWP</td>
         <td>fs3dBTNJX8XjXEH7dpzgkkZk5w5y2CnpRAF5RxBUFSszjJC7wciAhVhQAGmzPcnchjfzFA4nNWeStBHPCugwckuC13XH2362c<td>
     </tr>
