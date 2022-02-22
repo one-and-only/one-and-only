@@ -17,6 +17,7 @@
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="static/images/vscode.webp" />
+<img align="left" alt="Visual Studio" width="26px" src="static/images/vs.webp">
 <img align="left" alt="HTML5" width="26px" src="static/images/html.webp" />
 <img align="left" alt="CSS3" width="26px" src="static/images/css.webp" />
 <img align="left" alt="Sass" width="26px" src="static/images/sass.webp" />
