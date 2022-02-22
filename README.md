@@ -1,7 +1,7 @@
 ## About Me:
 - 16 year old high school student in Minnesota, USA 🇺🇸
 - Parents were born in Greece 🇬🇷
-- Software Engineering and always learning 🤓
+- Software Engineering enthusiast and always learning 🤓
 - Crypto Enthusiast ₿
 - Constantly working on a project or two 😉
 
@@ -22,16 +22,17 @@
 <img align="left" alt="Sass" width="26px" src="static/images/sass.webp" />
 <img align="left" alt="JavaScript" width="26px" src="static/images/js.webp" />
 <img align="left" alt="TypeScript" width="26px" src="static/images/typescript.webp">
-<img align="left" alt="React" width="26px" src="static/images/react.webp" />
-<img align="left" alt="Next.JS" width="26px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
+<img align="left" alt="React.JS" width="26px" src="static/images/react.webp" />
+<img align="left" alt="Next.JS" width="26px" src="static/images/nextjs.webp" />
+<img align="left" alt="Cypress E2E Testing Framework" width="26px" src="static/images/cypress.webp">
 <img align="left" alt="PHP" width="26px" src="static/images/php.webp">
-<img align="left" alt="Python" width="26px" src="https://pythonprinciples.com/images/round-python-logo.png">
+<img align="left" alt="Python" width="26px" src="static/images/python.webp">
 <img align="left" alt="Node.js" width="26px" src="static/images/nodejs.webp" />
 <img align="left" alt="SQL" width="26px" src="static/images/sql.webp" />
 <img align="left" alt="MySQL" width="26px" src="static/images/mysql.webp" />
 <img align="left" alt="MariaDB" width="26px" src="static/images/mariadb.webp">
 <img align="left" alt="Git" width="26px" src="static/images/git.webp" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" src="static/images/github.webp" />
 <img align="left" alt="Terminal" width="26px" src="static/images/terminal.webp" />
 <img align="left" alt="Linux" width="26px" src="static/images/tux.webp" />
 
