@@ -1,0 +1,83 @@
+## About Me:
+- 16 year old high school student in Minnesota, USA 🇺🇸
+- Parents were born in Greece 🇬🇷
+- Software Engineering and always learning 🤓
+- Crypto Enthusiast ₿
+- Constantly working on a project or two 😉
+
+## Socials:
+
+<p align="center">
+    <a href="https://discord.com/" alt="My Discord">
+        <img src="static/images/socials/discord.svg" /></a>
+    <a href="https://github.com/one-and-only" alt="My GitHub">
+        <img src="static/images/socials/github.svg" /></a>
+</p>
+
+## Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="static/images/vscode.png" />
+<img align="left" alt="HTML5" width="26px" src="static/images/html.png" />
+<img align="left" alt="CSS3" width="26px" src="static/images/css.png" />
+<img align="left" alt="Sass" width="26px" src="static/images/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="static/images/js.svg" />
+<img align="left" alt="React" width="26px" src="static/images/react.png" />
+<img align="left" alt="Next.JS" width="26px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" />
+<img align="left" alt="PHP" width="26px" src="static/images/php.png">
+<img align="left" alt="Python" width="26px" src="https://pythonprinciples.com/images/round-python-logo.png">
+<img align="left" alt="Node.js" width="26px" src="static/images/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="static/images/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="static/images/mysql.png" />
+<img align="left" alt="MariaDB" width="26px" src="static/images/mariadb.png">
+<img align="left" alt="Git" width="26px" src="static/images/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="static/images/terminal.png" />
+<img align="left" alt="Linux" width="26px" src="static/images/tux.png" />
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
+## Crypto Donation Addresses:
+
+<p style="font-size: 20px;">Like what you see or found something useful? Please kindly consider donating below to support my efforts and help me continue doing what I love. Any donation amount is greatly appreciated. Thank you! 🤗</p>
+<table style="font-size: 22px; width: auto">
+    <th>Coin Name</th>
+    <th>Coin Acronym</th>
+    <th>Donation Address</th>
+    <tr>
+        <td><img src="static/images/cryptos/btc.png" width="20px;"> Bitcoin</img></td>
+        <td>BTC</td>
+        <td>bc1qgtfxl7j4vnmftx9p9fzvwttf0lxnf0hxaqtmd6</td>
+    </tr>
+    <tr>
+        <td><img src="static/images/cryptos/eth.png" width="27px;"> Ethereum</img></td>
+        <td>ETH</td>
+        <td>0xb5Ba16B8829944EB811f6156eFBa5EF015CB4d71</td>
+    </tr>
+    <tr>
+        <td><img src="static/images/cryptos/ltc.png" width="20px;"> Litecoin</img></td>
+        <td>LTC</td>
+        <td>ltc1qmm3mvydt6mwdzzntkhxa2dqj7ndlwcvutktzyf</td>
+    </tr>
+    <tr>
+        <td><img src="static/images/cryptos/xmr.png" width="20px;"> Monero</img></td>
+        <td>XMR</td>
+        <td>489rq68uT2V7RmzFJcnaAVY4zvrwpu32ngchXUWDbvsFLv8neifPRt62PiXMrTP4c5CdpRKYFS4ZDU8YKjC7R4LbADb4s9L</td>
+    </tr>
+    <tr>
+        <td><img src="static/images/cryptos/rtm.png" width="22px;"> Raptoreum</img></td>
+        <td>RTM</td>
+        <td>RRWtsBYMcRXMu7EzP1rDN8UajHQFew2sJ8</td>
+    </tr>
+    <tr>
+        <td><img src="static/images/cryptos/xwp.png" width="22px;"> Swap</img></td>
+        <td>XWP</td>
+        <td>fs3dBTNJX8XjXEH7dpzgkkZk5w5y2CnpRAF5RxBUFSszjJC7wciAhVhQAGmzPcnchjfzFA4nNWeStBHPCugwckuC13XH2362c<td>
+    </tr>
+</table>
+
+## My GitHub Stats:
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical)
