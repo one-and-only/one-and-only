@@ -1,4 +1,5 @@
 ## About Me:
+
 - 16 year old high school student in Minnesota, USA 🇺🇸
 - Parents were born in Greece 🇬🇷
 - Software Engineering enthusiast and always learning 🤓
@@ -80,11 +81,29 @@
         <td>XWP</td>
         <td>fs3dBTNJX8XjXEH7dpzgkkZk5w5y2CnpRAF5RxBUFSszjJC7wciAhVhQAGmzPcnchjfzFA4nNWeStBHPCugwckuC13XH2362c<td>
     </tr>
+        <tr>
+        <td><img src="static/images/cryptos/atom.png" width="20px"> Cosmos Hub</img></td>
+        <td>ATOM</td>
+        <td>cosmos1hmk6lv6s2ddhul75klwczrhke6retw6lc3qevz</td>
+    </tr>
+    <tr>
+        <td><img src="static/images/cryptos/osmo.png" width="20px"> Osmosis</img></td>
+        <td>OSMO</td>
+        <td>osmo1hmk6lv6s2ddhul75klwczrhke6retw6ls2nf6s</td>
+    </tr>
+    <tr>
+        <td><img src="static/images/cryptos/boot.png" width="20px"> Bostrom</img></td>
+        <td>BOOT</td>
+        <td>bostrom1hmk6lv6s2ddhul75klwczrhke6retw6lmz52j9</td>
+    </tr>
 </table>
 
 ## My GitHub Stats:
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical)
 
 <!--STARTS_HERE_QUOTE_README-->
+
 <i>❝During IBM Watson’s Jeopardy Game, it stored all 15 terabytes of its knowledge in RAM, including every page of Wikipedia in existence.❞</i>
+
 <!--ENDS_HERE_QUOTE_README-->
