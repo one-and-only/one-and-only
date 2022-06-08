@@ -1,4 +1,4 @@
-## About Me:
+## About Me
 
 - 17 year old high school student in Minnesota, USA 🇺🇸
 - Parents were born in Greece 🇬🇷
@@ -6,7 +6,7 @@
 - Crypto Enthusiast ₿
 - Constantly working on a project or two 😉
 
-## Socials:
+## Socials
 
 <p align="center">
     <a href="https://discord.com/" alt="My Discord">
@@ -15,7 +15,7 @@
         <img src="static/images/socials/github.svg" /></a>
 </p>
 
-## Languages and Tools:
+## Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="static/images/vscode.webp" />
 <img align="left" alt="Visual Studio" width="26px" src="static/images/vs.webp">
@@ -44,7 +44,7 @@
 <br />
 <br />
 
-## Crypto Donation Addresses:
+## Crypto Donation Addresses
 
 <p style="font-size: 20px;">Like what you see or found something useful? Please kindly consider donating below to support my efforts and help me continue doing what I love. Any donation amount is greatly appreciated. Thank you! 🤗</p>
 <table style="font-size: 22px; width: auto">
@@ -98,7 +98,7 @@
     </tr>
 </table>
 
-## My GitHub Stats:
+## My GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical)
 
