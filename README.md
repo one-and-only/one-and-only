@@ -98,6 +98,9 @@
     </tr>
 </table>
 
+## Top Lanugages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=one-and-only&hide=css,scss,html,shell,dockerfile&theme=radical)
+
 ## My GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical)
