@@ -5,6 +5,8 @@
 - Software Engineering enthusiast and always learning 🤓
 - Crypto Enthusiast ₿
 - Constantly working on a project or two 😉
+- I mostly code in JS, C#, C++, and some Python, Java, and Shellscript
+- I started coding in Java, then learned PHP and the other languages mentioned above
 
 ## Socials
 
