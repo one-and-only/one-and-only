@@ -108,7 +108,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Manually managing blocks of memory in C is like juggling bars of soap in a prison shower: It’s all fun and games until you forget about one of them.”— anonymous Usenet user   ❞</i>
+<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
