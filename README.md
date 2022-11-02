@@ -108,7 +108,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mortal Kombat II was so popular when it hit the arcades that several of the machines were later installed with deadlock security panels on the back to prevent thieves from ripping the game’s motherboard straight out of the machine and taking it home.❞</i>
+<i>❝The very first computer was an abacus invested 500 B.C in Babylon made of string and beads whose main purpose was to count.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
