@@ -108,7 +108,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
+<i>❝“Computers are good at following instructions, but not at reading your mind.”— Donald Knuth   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
