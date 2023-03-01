@@ -82,12 +82,6 @@
         <td><img src="static/images/cryptos/xwp.webp" width="20px"> Swap</img></td>
         <td>XWP</td>
         <td>fs3dBTNJX8XjXEH7dpzgkkZk5w5y2CnpRAF5RxBUFSszjJC7wciAhVhQAGmzPcnchjfzFA4nNWeStBHPCugwckuC13XH2362c<td>
-    </tr>
-        <tr>
-        <td><img src="static/images/cryptos/atom.png" width="20px"> Cosmos Hub</img></td>
-        <td>ATOM</td>
-        <td>cosmos1hmk6lv6s2ddhul75klwczrhke6retw6lc3qevz</td>
-    </tr>
 </table>
 
 ## Top Lanugages
