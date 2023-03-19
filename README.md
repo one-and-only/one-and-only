@@ -41,6 +41,7 @@
 <img align="left" alt="Linux" width="26px" src="static/images/tux.webp" />
 <img align="left" alt="PhpStorm" width="26px" src="static/images/phpstorm.webp" />
 <img align="left" alt="Rider" width="26px" src="static/images/rider.webp" />
+<img align="left" alt="MongoDB" width="26px" src="static/images/mongodb.svg" />
 
 <br />
 <br />
