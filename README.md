@@ -39,6 +39,8 @@
 <img align="left" alt="GitHub" width="26px" src="static/images/github.webp" />
 <img align="left" alt="Terminal" width="26px" src="static/images/terminal.webp" />
 <img align="left" alt="Linux" width="26px" src="static/images/tux.webp" />
+<img align="left" alt="PhpStorm" width="26px" src="static/images/phpstorm.webp" />
+<img align="left" alt="Rider" width="26px" src="static/images/rider.webp" />
 
 <br />
 <br />
