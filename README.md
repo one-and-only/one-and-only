@@ -4,9 +4,9 @@
 - Son of Greek Parents 🇬🇷
 - Software Engineering enthusiast and always learning 📚
 - Crypto Enthusiast ₿
-- Constantly working on a project or two 😉
-- I mostly code in JS, PHP, C++, C#, and some Python
-- I started coding in Java, then learned PHP and the other languages mentioned above
+- Constantly working on a project or two 🖥️
+- I mostly code in JavaScript, PHP, C++, C#, and some Python
+- I started coding in Java, then learned the other languages mentioned above
 
 ## Socials
 
