@@ -1,7 +1,7 @@
 ## About Me
 
 - 18 year old high school student in Minnesota, USA 🇺🇸
-- Parents were born in Greece 🇬🇷
+- Son of Greek Parents 🇬🇷
 - Software Engineering enthusiast and always learning 📚
 - Crypto Enthusiast ₿
 - Constantly working on a project or two 😉
