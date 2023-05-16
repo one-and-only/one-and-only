@@ -95,7 +95,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical&count_private=true)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There was a time when AMD and Intel CPUs used the same socket (Socket 7) and could run on the same motherboard.❞</i>
+<i>❝“On two occasions I have been asked, ‘If you put into the machine wrong figures, will the right answers come out?’  I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question.”— Charles Babbage   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
