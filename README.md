@@ -95,7 +95,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical&count_private=true)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
+<i>❝“It is easier to change the specification to fit the program than vice versa.”— Alan Perlis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
