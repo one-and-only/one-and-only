@@ -1,6 +1,7 @@
 ## About Me
 
-- 18 year old high school student in Minnesota, USA 🇺🇸
+- 18 year old incoming Freshman student at [Case Western Reserve University](https://case.edu/) 🇺🇸
+- Majoring in Computer Science
 - Son of Greek Parents 🇬🇷
 - Software Engineering enthusiast and always learning 📚
 - Crypto Enthusiast ₿
