@@ -1,7 +1,7 @@
 ## About Me
 
-- 18 year old incoming Freshman student at [Case Western Reserve University](https://case.edu/) 🇺🇸
-- Majoring in Computer Science
+- 18 year old Undergraduate Freshman at [Case Western Reserve University](https://case.edu/) 🇺🇸
+- Majoring in Computer Science with a minors in Computer Engineering and Finance
 - Son of Greek Parents 🇬🇷
 - Software Engineering enthusiast and always learning 📚
 - Crypto Enthusiast ₿
