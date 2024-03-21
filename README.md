@@ -6,7 +6,7 @@
 - Software Engineering enthusiast and always learning 📚
 - Crypto Enthusiast ₿
 - Constantly working on a project or two 🖥️
-- I mostly code in JavaScript, PHP, C++, C#, and some Python
+- I mostly code in JavaScript, C++, PHP, C#, and some Python
 - I started coding in Java, then learned the other languages mentioned above
 
 ## Socials
@@ -49,6 +49,18 @@
 <br />
 <br />
 <br />
+
+## Noteworthy Projects
+### I am the sole developer and project lead of the following projects:
+* Custom, robust, and open-source Fortnite Lobby Emulation and XMPP server implementation
+    * Travel back in time to many older Fortnite versions and experience the thrill of OG Fortnite!
+    * This project includes a launcher app, API server code, a DLL for use with the launcher (redirects all of Epic's requests to my implementation), and a multiplayer packet specification
+    * The XMPP connection between users is handled automatically in the API, without more input required from the user
+* Swap ($XWP) Mobile Crypto Wallet (iOS/Android)
+    * A mobile wallet for the Swap ($XWP) crypto currency without trackers
+    * Privately send and receive $XWP in piece
+* HTTP/1.1-compliant static file web server for the Wii (HTTPii)
+* NOTE: I am the owner and sole contributor to many of the organizations that I am a member of. You may find some interesting projects there too. Hope to see you around!
 
 ## Crypto Donation Addresses
 
