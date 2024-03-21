@@ -1,6 +1,6 @@
 ## About Me
 
-- 18 year old Undergraduate Freshman at [Case Western Reserve University](https://case.edu/) 🇺🇸
+- 19 year old Undergraduate Freshman at [Case Western Reserve University](https://case.edu/) 🇺🇸
 - Majoring in Computer Science with minors in Computer Engineering and FinTech
 - Son of Greek Parents 🇬🇷
 - Software Engineering enthusiast and always learning 📚
@@ -53,6 +53,8 @@
 
 ## Noteworthy Projects
 ### I am the sole developer and project lead of the following projects:
+* JavaScript algorithmic trading bot for crypto (Suppabotta)
+    * Supports regular and floating arbitrage trading strategies across all cryptos from various exchanges
 * Custom, robust, and open-source Fortnite Lobby Emulation and XMPP server implementation
     * Travel back in time to many older Fortnite versions and experience the thrill of OG Fortnite!
     * This project includes a launcher app, API server code, a DLL for use with the launcher (redirects all of Epic's requests to my implementation), and a multiplayer packet specification
