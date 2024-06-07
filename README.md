@@ -100,7 +100,7 @@
     <tr>
         <td><img src="static/images/cryptos/xwp.webp" width="20px"> Swap</img></td>
         <td>XWP</td>
-        <td>fs3dBTNJX8XjXEH7dpzgkkZk5w5y2CnpRAF5RxBUFSszjJC7wciAhVhQAGmzPcnchjfzFA4nNWeStBHPCugwckuC13XH2362c<td>
+        <td>fh208ZtcF82Sx4UPx7gxB9KwmpPfKgmpW1sy7NrbHg6xQmmCYDS6d2tQKzuGbH5cL2PRrXmTEp856AuDHcLPDqHP294zaRdAi<td>
 </table>
 
 ## Top Lanugages
