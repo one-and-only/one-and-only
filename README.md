@@ -111,7 +111,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical&count_private=true)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
+<i>❝IBM 5120 from 1980 was the heaviest desktop computer ever made. It weighed about 105 pounds, not including the 130 pounds external floppy drive.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
