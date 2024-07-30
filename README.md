@@ -111,7 +111,7 @@
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical&count_private=true)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Low-level programming is good for the programmer’s soul.”— John Carmack   ❞</i>
+<i>❝“In a room full of top software designers, if two agree on the same thing, that’s a majority.”— Bill Curtis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
