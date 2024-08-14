@@ -106,12 +106,9 @@
 ## Top Lanugages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=one-and-only&hide=css,scss,html,shell,dockerfile&theme=radical)
 
-## My GitHub Stats
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=one-and-only&show_icons=true&theme=radical&count_private=true)
-
+## Quote Of The Day
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-![](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
