@@ -108,7 +108,7 @@
 
 ## Quote Of The Day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Computer viruses are an urban legend.”— Peter Norton, 1988   ❞</i>
+<i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
