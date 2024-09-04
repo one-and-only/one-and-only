@@ -1,22 +1,22 @@
 ## About Me
 
-- 19 year old Undergraduate Freshman at [Case Western Reserve University](https://case.edu/) 🇺🇸
+- 19 year old Undergraduate Sophomore at [Case Western Reserve University](https://case.edu/) 🇺🇸
 - Majoring in Computer Science with minors in Computer Engineering and FinTech
 - Son of Greek Parents 🇬🇷
 - Software Engineering enthusiast and always learning 📚
-- Crypto Enthusiast ₿
+- AI/ML Enthusiast
 - Constantly working on a project or two 🖥️
-- I mostly code in JavaScript, C++, PHP, C#, and some Python
-- I started coding in Java, then learned the other languages mentioned above
+- I mostly code in JavaScript, Python, C++, PHP, and some C#
 
 ## Socials
 
-<p align="center">
-    <a href="https://discord.com/" alt="My Discord">
-        <img src="static/images/socials/discord.svg" /></a>
+<p>
     <a href="https://github.com/one-and-only" alt="My GitHub">
         <img src="static/images/socials/github.svg" /></a>
 </p>
+
+![Static Badge](https://img.shields.io/badge/email-antonios%40mail.aurora--interactive.online-green?style=for-the-badge&logo=gmail&logoSize=auto&color=%23c71610&link=mailto%3Amail.aurora-interactive.online)
+
 
 ## Languages and Tools
 
