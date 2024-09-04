@@ -55,9 +55,9 @@
 ### I am the sole developer and project lead of the following projects:
 * JavaScript algorithmic trading bot for crypto (Suppabotta)
     * Supports regular and floating arbitrage trading strategies across all cryptos from various exchanges
-* Custom, robust, and open-source Fortnite Lobby Emulation and XMPP server implementation
+* Custom, robust, and open-source Fortnite Lobby Emulation and XMPP server implementation (sadly no longer online)
     * Travel back in time to many older Fortnite versions and experience the thrill of OG Fortnite!
-    * This project includes a launcher app, API server code, a DLL for use with the launcher (redirects all of Epic's requests to my implementation), and a multiplayer packet specification
+    * This project includes a launcher app, API server code, and a DLL for use with the launcher (redirects all of Epic's requests to my implementation)
     * The XMPP connection between users is handled automatically in the API, without more input required from the user
 * Swap ($XWP) Mobile Crypto Wallet (iOS/Android)
     * A mobile wallet for the Swap ($XWP) crypto currency without trackers
