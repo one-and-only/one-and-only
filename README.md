@@ -53,6 +53,12 @@
 
 ## Noteworthy Projects
 ### I am the sole developer and project lead of the following projects:
+* Aurora AI Chat
+    * AI NLP-Powered Virtual Character Chat (currently testing in closed beta)
+    * Inferencing on custom finetune of Mistral NeMo 12B on > 2B finetuning tokens
+    * Hand-curated testing data for enhanced accuracy for intended LLM purpose
+    * In-house performant REST API ([Schema](https://bump.sh/aurora-interactive-services/doc/ai-chatbot-api))
+    * TypeScript SDK for interfacing outside of the website
 * JavaScript algorithmic trading bot for crypto (Suppabotta)
     * Supports regular and floating arbitrage trading strategies across all cryptos from various exchanges
 * Custom, robust, and open-source Fortnite Lobby Emulation and XMPP server implementation (sadly no longer online)
