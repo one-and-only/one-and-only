@@ -2,7 +2,7 @@
 
 - 19 year old Undergraduate Sophomore at [Case Western Reserve University](https://case.edu/) 🇺🇸
 - Majoring in Computer Science with minors in Computer Engineering and FinTech
-- Son of Greek Parents 🇬🇷
+- Son of Greek Parents 🇬🇷 πάμε γερά!
 - Software Engineering enthusiast and always learning 📚
 - AI/ML Enthusiast
 - Constantly working on a project or two 🖥️
