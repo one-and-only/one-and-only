@@ -53,8 +53,8 @@
 
 ## Noteworthy Projects
 ### I am the sole developer and project lead of the following projects:
-* Aurora AI Chat
-    * AI NLP-Powered Virtual Character Chat (currently testing in closed beta)
+* [Aurora AI Chat](https://aurora-interactive.online)
+    * AI NLP-Powered Virtual Character Chat
     * Inferencing on custom finetune of Mistral NeMo 12B on > 2B finetuning tokens
     * Hand-curated testing data for enhanced accuracy for intended LLM purpose
     * In-house performant REST API ([Schema](https://bump.sh/aurora-interactive-services/doc/ai-chatbot-api))
