@@ -114,7 +114,7 @@
 
 ## Quote Of The Day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   ❞</i>
+<i>❝“The best way to get accurate information on Usenet is to post something wrong and wait for corrections.”— Matthew Austern   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
