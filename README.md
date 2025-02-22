@@ -1,6 +1,6 @@
 ## About Me
 
-- 19 year old Undergraduate Sophomore at [Case Western Reserve University](https://case.edu/) 🇺🇸
+- 20 year old Undergraduate Sophomore at [Case Western Reserve University](https://case.edu/) 🇺🇸
 - Majoring in Computer Science with minors in Computer Engineering and FinTech
 - Son of Greek Parents 🇬🇷 πάμε γερά!
 - Software Engineering enthusiast and always learning 📚
@@ -55,7 +55,7 @@
 ### I am the sole developer and project lead of the following projects:
 * [Aurora AI Chat](https://aurora-interactive.online)
     * AI NLP-Powered Virtual Character Chat
-    * Inferencing on custom finetune of Mistral NeMo 12B on > 2B finetuning tokens
+    * Inferencing on custom finetune of Qwen 2.5 14B on > 2B finetuning tokens
     * Hand-curated testing data for enhanced accuracy for intended LLM purpose
     * In-house performant REST API ([Schema](https://bump.sh/aurora-interactive-services/doc/ai-chatbot-api))
     * TypeScript SDK for interfacing outside of the website
