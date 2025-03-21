@@ -114,7 +114,7 @@
 
 ## Quote Of The Day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The world is one big data problem.”— Andrew McAfee❞</i>
+<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
