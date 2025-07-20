@@ -81,7 +81,7 @@
     <tr>
         <td><img src="static/images/cryptos/btc.webp" width="20px"> Bitcoin</img></td>
         <td>BTC</td>
-        <td>bc1qgtfxl7j4vnmftx9p9fzvwttf0lxnf0hxaqtmd6</td>
+        <td>bc1q7ap2sj3aj2xqxmgumyvrtujtr00mpqdgup4jxe</td>
     </tr>
     <tr>
         <td><img src="static/images/cryptos/eth.webp" width="20px"> Ethereum</img></td>
@@ -91,7 +91,7 @@
     <tr>
         <td><img src="static/images/cryptos/ltc.webp" width="20px"> Litecoin</img></td>
         <td>LTC</td>
-        <td>ltc1qmm3mvydt6mwdzzntkhxa2dqj7ndlwcvutktzyf</td>
+        <td>ltc1qqvdwlvfucjkla65nxaug7lta5g0y0z5wtnysxm</td>
     </tr>
     <tr>
         <td><img src="static/images/cryptos/xmr.webp" width="20px"> Monero</img></td>
