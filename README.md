@@ -6,7 +6,7 @@
 - Software Engineering enthusiast and always learning 📚
 - AI/ML Enthusiast
 - Constantly working on a project or two 🖥️
-- I mostly code in JavaScript, Python, C++, PHP, and some C#
+- I mostly code in JavaScript, Python, C#, C++, and some PHP
 
 ## Socials
 
