@@ -68,6 +68,10 @@
 * Swap ($XWP) Mobile Crypto Wallet (iOS/Android)
     * A mobile wallet for the Swap ($XWP) crypto currency without trackers
     * Privately send and receive $XWP in peace
+* Swap Virtual Machine (SVM)
+    * Stack-based Virtual Machine originally targetted for smart contract use on the Swap ($XWP) cryptocurrency network
+    * Goal quickly shifted to SVM being a turing-complete general programing language for research purposes
+    * NOTE: implementation may have bugs and execution may not align to language specification
 * HTTP/1.1-compliant static file web server for the Wii (HTTPii)
 * NOTE: I am the owner and sole contributor to many of the organizations that I am a member of. I made these to segment certain projects by categories or larger project scope. You may find some interesting projects there too. Hope to see you around!
 
