@@ -59,20 +59,20 @@
     * Hand-curated testing data for enhanced accuracy for intended LLM purpose
     * In-house performant REST API ([Schema](https://bump.sh/aurora-interactive-services/doc/ai-chatbot-api))
     * TypeScript SDK for interfacing outside of the website
-* JavaScript algorithmic trading bot for crypto (Suppabotta)
+* [JavaScript algorithmic trading bot for crypto (Suppabotta)](https://github.com/one-and-only/Suppabotta/tree/development)
     * Supports regular and floating arbitrage trading strategies across all cryptos from various exchanges
-* Custom, robust, and open-source Fortnite Lobby Emulation and XMPP server implementation (sadly no longer online)
+* [Custom, robust, and open-source Fortnite Lobby Emulation and XMPP server implementation (sadly no longer online)](https://github.com/The-Yeetnite-Team)
     * Travel back in time to many older Fortnite versions and experience the thrill of OG Fortnite!
     * This project includes a launcher app, API server code, and a DLL for use with the launcher (redirects all of Epic's requests to my implementation)
     * The XMPP connection between users is handled automatically in the API, without more input required from the user
-* Swap ($XWP) Mobile Crypto Wallet (iOS/Android)
+* [Swap ($XWP) Mobile Crypto Wallet (iOS/Android)](https://github.com/one-and-only/swap-ios-wallet)
     * A mobile wallet for the Swap ($XWP) crypto currency without trackers
     * Privately send and receive $XWP in peace
-* Swap Virtual Machine (SVM)
+* [Swap Virtual Machine (SVM)](https://github.com/swap-dev/svm)
     * Stack-based Virtual Machine originally targetted for smart contract use on the Swap ($XWP) cryptocurrency network
     * Goal quickly shifted to SVM being a turing-complete general programing language for research purposes
     * NOTE: implementation may have bugs and execution may not align to language specification
-* HTTP/1.1-compliant static file web server for the Wii (HTTPii)
+* [HTTP/1.1-compliant static file web server for the Wii (HTTPii)](https://github.com/one-and-only/httpii)
 * NOTE: I am the owner and sole contributor to many of the organizations that I am a member of. I made these to segment certain projects by categories or larger project scope. You may find some interesting projects there too. Hope to see you around!
 
 ## Crypto Donation Addresses
