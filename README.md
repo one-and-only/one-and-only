@@ -118,7 +118,7 @@
 
 ## Quote Of The Day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.”— Edsger Dijkstra   ❞</i>
+<i>❝“Physics is the universe’s operating system.”— Steven R Garman   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
