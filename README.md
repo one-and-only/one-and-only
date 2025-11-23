@@ -1,6 +1,6 @@
 ## About Me
 
-- 20 year old Undergraduate Rising Junior at [Case Western Reserve University](https://case.edu/) 🇺🇸
+- 20 year old Undergraduate Junior at [Case Western Reserve University](https://case.edu/) 🇺🇸
 - Majoring in Computer Science with minors in Computer Engineering and FinTech
 - Son of Greek Parents 🇬🇷 πάμε γερά!
 - Software Engineering enthusiast and always learning 📚
