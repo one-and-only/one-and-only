@@ -15,7 +15,7 @@
         <img src="static/images/socials/github.svg" /></a>
 </p>
 
-![Static Badge](https://img.shields.io/badge/email-antonios%40mail.aurora--interactive.online-green?style=for-the-badge&logo=gmail&logoSize=auto&color=%23c71610&link=mailto%3Amail.aurora-interactive.online)
+![Static Badge](https://img.shields.io/badge/email-antonios%40aurora--interactive.online-green?style=for-the-badge&logo=gmail&logoSize=auto&color=%23c71610&link=mailto%3Aantonios%40aurora-interactive.online)
 
 
 ## Languages and Tools
