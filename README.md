@@ -113,9 +113,6 @@
         <td>fh208ZtcF82Sx4UPx7gxB9KwmpPfKgmpW1sy7NrbHg6xQmmCYDS6d2tQKzuGbH5cL2PRrXmTEp856AuDHcLPDqHP294zaRdAi<td>
 </table>
 
-## Top Lanugages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=one-and-only&hide=css,scss,html,shell,dockerfile&theme=radical)
-
 ## Quote Of The Day
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
