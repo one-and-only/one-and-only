@@ -47,9 +47,6 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
 
 ## Noteworthy Projects
 ### I am the sole developer and project lead of the following projects:
