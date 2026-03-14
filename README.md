@@ -112,7 +112,7 @@
 
 ## Quote Of The Day
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   ❞</i>
+<i>❝“The more you know, the more you realize you know nothing.”— Socrates   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=one-and-only&style=for-the-badge)
