@@ -1,12 +1,15 @@
 ## About Me
 
-- 20 year old Undergraduate Junior at [Case Western Reserve University](https://case.edu/) 🇺🇸
+- 21 year old Undergraduate Junior at [Case Western Reserve University](https://case.edu/) 🇺🇸
 - Majoring in Computer Science with minors in Computer Engineering and FinTech
 - Son of Greek Parents 🇬🇷 πάμε γερά!
 - Software Engineering enthusiast and always learning 📚
 - AI/ML Enthusiast
 - Constantly working on a project or two 🖥️
 - I mostly code in JavaScript, Python, C#, C++, and some PHP
+
+> [!IMPORTANT]
+> I migrated all my code repositories to my [GitLab Self-Managed]() instance. This profile page and all my coding efforts may not land on this GitHub moving forward. I hope you can join me there!
 
 ## Socials
 
