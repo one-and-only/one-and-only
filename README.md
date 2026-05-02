@@ -9,7 +9,7 @@
 - I mostly code in JavaScript, Python, C#, C++, and some PHP
 
 > [!IMPORTANT]
-> I migrated all my code repositories to my [GitLab Self-Managed]() instance. This profile page and all my coding efforts may not land on this GitHub moving forward. I hope you can join me there!
+> I migrated all my code repositories to my [GitLab Self-Managed](https://git.aurora-interactive.online/one-and-only) instance. This profile page and all my coding efforts may not land on this GitHub moving forward. I hope you can join me there!
 
 ## Socials
 
